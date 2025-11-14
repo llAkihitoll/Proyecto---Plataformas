@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Proyecto" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Colores personalizados -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorSecondary">@color/teal_200</item>
+
+        <!-- Fondos -->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <!-- Comportamiento de barra de estado -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
+

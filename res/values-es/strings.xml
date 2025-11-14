@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="values">values</string>
+    <string name="profile_welcome">¡Bienvenido, %1$s!</string>
+    <string name="switch_to_light">Cambiar a modo claro</string>
+    <string name="switch_to_dark">Cambiar a modo oscuro</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="back_to_main">Volver al menú principal</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="how_healthy">¿Qué tan saludable?</string>
+    <string name="how_enjoyable">¿Qué tanto lo disfrutaste?</string>
+    <string name="how_important">¿Qué tan importante?</string>
+    <string name="done">Hecho</string>
+</resources>

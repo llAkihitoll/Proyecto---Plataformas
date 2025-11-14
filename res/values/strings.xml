@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="values">values</string>
+    <string name="profile_welcome">Welcome, %1$s!</string>
+    <string name="switch_to_light">Switch to Light Mode</string>
+    <string name="switch_to_dark">Switch to Dark Mode</string>
+    <string name="change_language">Change Language</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="logout">Log Out</string>
+    <string name="how_healthy">How healthy?</string>
+    <string name="how_enjoyable">How enjoyable?</string>
+    <string name="how_important">How important?</string>
+    <string name="done">Done</string>
+</resources >
